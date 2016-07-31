@@ -1,0 +1,22 @@
+{
+  "name": "bower-framework7-angularjs",
+  "homepage": "https://github.com/ashvin777/bower-framework7-angularjs",
+  "description": "Framework7 Angularjs Plugin",
+  "main": "framework7.angular.hook.js",
+  "keywords": [
+    "framework7",
+    "angularjs",
+    "angular"
+  ],
+  "authors": [
+    "Ashvin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

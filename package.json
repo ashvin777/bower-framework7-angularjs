@@ -1,0 +1,19 @@
+{
+  "name": "framework7-angularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "framework7.angular.hook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashvin777/bower-framework7-angularjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashvin777/bower-framework7-angularjs/issues"
+  },
+  "homepage": "https://github.com/ashvin777/bower-framework7-angularjs#readme"
+}
